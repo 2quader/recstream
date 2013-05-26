@@ -3,8 +3,8 @@
 # Benötigt at (http://packages.qa.debian.org/a/at.html), mplayer und recstream-helper.sh (befindet sich im selben Paket wie
 # diese Datei)
 #
-# Bitte anpassen: 	Unten (letzte Zeile) Pfad zur recstream-helper.sh anpassen
-#					In recstream-helper.sh: E-Mail-Adresse anpassen
+# Bitte anpassen:    Unten (letzte Zeile) Pfad zur recstream-helper.sh anpassen
+#                    In recstream-helper.sh: E-Mail-Adresse anpassen
 #
 # recstream.sh und recstream-helper.sh stehen unter der MIT-Lizenz (http://opensource.org/licenses/MIT).
 
