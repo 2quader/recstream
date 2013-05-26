@@ -1,8 +1,8 @@
 #!/bin/sh
 # Primitiver Stream-Recorder. Nimmt Streams ab einem bestimmten Zeitpunkt auf. Gut für Aufnahme von Podcast-Livestreams geeignet.
 #
-# Bitte anpassen: 	In recstream.sh Pfad zur recstream-helper.sh anpassen
-#					Unten (1. Codezeile) E-Mail-Adresse anpassen
+# Bitte anpassen:    In recstream.sh Pfad zur recstream-helper.sh anpassen
+#                    Unten (1. Codezeile) E-Mail-Adresse anpassen
 #
 # recstream.sh und recstream-helper.sh stehen unter der MIT-Lizenz (http://opensource.org/licenses/MIT).
 
